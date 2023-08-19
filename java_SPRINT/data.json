@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Mick Bounce",
+        "age": 30,
+        "isStudent": false,
+        "address": {
+            "street": "123 Main St",
+            "city": "St. Johns",
+            "country": "CA"
+        },
+        "grades": [87, 92, 78],
+        "email": "mick@example.com",
+        "isEmployed": true
+    },
+    {
+        "name": "Jane Smith",
+        "age": 25,
+        "isStudent": true,
+        "address": {
+            "street": "456 Elm St",
+            "city": "Mt. Pearl",
+            "country": "CA"
+        },
+        "grades": [95, 88, 73],
+        "email": "jane@example.com",
+        "isEmployed": false
+    },
+    {
+        "name": "Michael Johnson",
+        "age": 45,
+        "isStudent": false,
+        "address": {
+            "street": "789 Oak Ave",
+            "city": "Merry's Town",
+            "country": "CA"
+        },
+        "grades": [76, 84, 92],
+        "email": "michael@example.com",
+        "isEmployed": true
+    },
+    {
+        "name": "Emily Williams",
+        "age": 28,
+        "isStudent": false,
+        "address": {
+            "street": "101 Pine Rd",
+            "city": "Petty Harbour",
+            "country": "CA"
+        },
+        "grades": [89, 78, 95],
+        "email": "emily@example.com",
+        "isEmployed": true
+    },
+    {
+        "name": "Daniel Brown",
+        "age": 22,
+        "isStudent": true,
+        "address": {
+            "street": "222 Maple Ln",
+            "city": "St. John's",
+            "country": "CA"
+        },
+        "grades": [67, 92, 85],
+        "email": "daniel@example.com",
+        "isEmployed": false
+    },
+    {
+        "name": "Sophia Lee",
+        "age": 32,
+        "isStudent": false,
+        "address": {
+            "street": "333 Cedar Dr",
+            "city": "Mt. Carson",
+            "country": "CA"
+        },
+        "grades": [82, 95, 79],
+        "email": "sophia@example.com",
+        "isEmployed": true
+    },
+    {
+        "name": "William Martinez",
+        "age": 37,
+        "isStudent": true,
+        "address": {
+            "street": "444 Birch St",
+            "city": "St. Marine",
+            "country": "CA"
+        },
+        "grades": [73, 88, 91],
+        "email": "william@example.com",
+        "isEmployed": true
+    },
+    {
+        "name": "Olivia Garcia",
+        "age": 29,
+        "isStudent": false,
+        "address": {
+            "street": "555 Spruce Rd",
+            "city": "Cityville",
+            "country": "CA"
+        },
+        "grades": [95, 82, 70],
+        "email": "olivia@example.com",
+        "isEmployed": false
+    }
+]
